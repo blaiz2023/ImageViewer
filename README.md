@@ -1,4 +1,4 @@
-# ImageViewer v2.0.1410 / 09nov2025 / MIT License
+# Image Viewer v2.0.1410 / 09nov2025 / MIT License
 View images in a folder or play a slideshow.  Simple with Image Viewer.
 
 <img src="images/imageviewer-screenshot.jpg">
