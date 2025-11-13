@@ -31,8 +31,6 @@ View images in a folder or play a slideshow.  Simple with Image Viewer.
 * Portable
 * Smart Source Code (Borland Delphi 3 and Lazarus 2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WslngFukUEc?si=2b2RGeX5jKS1I40P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # Download
 Download <a href="src/imageviewer.exe">imageviewer.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above.
 
