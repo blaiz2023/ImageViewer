@@ -3,6 +3,8 @@ View images in a folder or play a slideshow.  Simple with Image Viewer.
 
 <img src="images/imageviewer-screenshot.jpg">
 
+[![Slideshow with Image Viewer](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=WslngFukUEc)
+
 # Features
 * View static and animated images
 * Realtime Image Information - Dimensions (width x height in pixels), Depth (bits), Cells (1..N), Delay (in milliseconds), Speed (in frames/cells per second), Colors, Size (file size), and File name
