@@ -3,7 +3,7 @@ View images in a folder or play a slideshow.  Simple with Image Viewer.
 
 <img src="images/imageviewer-screenshot.jpg">
 
-[![Slideshow with Image Viewer](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=WslngFukUEc)
+[![Slideshow with Image Viewer](https://img.youtube.com/vi/WslngFukUEc/0.jpg)](https://www.youtube.com/watch?v=WslngFukUEc)
 
 # Features
 * View static and animated images
